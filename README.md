@@ -1,1 +1,2 @@
-CodeWars (code)
+CodeWars (решение задач)
+``
