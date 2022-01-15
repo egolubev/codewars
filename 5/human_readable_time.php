@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Human Readable Time
  * User: egolubev

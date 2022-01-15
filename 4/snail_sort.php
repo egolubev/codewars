@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Snail Sort
  * User: egolubev
