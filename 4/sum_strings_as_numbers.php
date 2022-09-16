@@ -3,7 +3,7 @@
  * Sum Strings as Numbers
  * User: egolubev
  * Date: 17.09.2022
- * Time: 0:01
+ * Time: 0:00
  */
 
 function sum_strings($a, $b) {
